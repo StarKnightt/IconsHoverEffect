@@ -11,7 +11,7 @@ Explore this repository to discover a stylish and responsive hover effect implem
 ## Usage
 1. Clone the repository to your local machine:
     ```bash
-    git clone (https://github.com/StarKnightt/IconsHoverEffect.git)
+    git clone https://github.com/StarKnightt/IconsHoverEffect.git
     ```
 
 2. Open the `index.html` file in your preferred web browser.
